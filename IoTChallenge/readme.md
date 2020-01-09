@@ -26,7 +26,9 @@ https://github.com/pbatard/libwdi/releases/download/b721/zadig-2.4.exe
 https://zadig.akeo.ie/
 
 ### Installation Procedure:
-
+1. Run zadig-2.4.exe
+2. Select libUSB Win32
+3. Click on Install Driver
 
 ## Atmel Studio Configuration:
 
